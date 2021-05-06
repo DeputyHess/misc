@@ -17,10 +17,10 @@
   color: green;
 }
 #header li {
-  font-size 14px;
+  size 14px;
 }
 .items {
   color: black;
-  font-weight: strong;
+  font-weight: bold;
   background-color: green;
 }
