@@ -1,0 +1,18 @@
+.header1 td {
+  background-color: red;
+}
+.header2 td {
+  background-color: blue;
+}
+.border {
+  border: 5px solid black;
+}
+#twhite {
+  color: white;
+}
+#tblue {
+  color: blue;
+}
+#tgreen {
+  color: green;
+}
