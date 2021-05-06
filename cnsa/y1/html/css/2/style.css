@@ -17,7 +17,8 @@
   color: green;
 }
 #header li {
-  size 14px;
+  color: white;
+  background-color: black;
 }
 .items {
   color: black;
